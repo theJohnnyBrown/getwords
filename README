@@ -1,1 +1,2 @@
-ffrom is a Scrabble/Words With Friends "helper" I wrote in C. run it with one command line argument, which is the list of letters you have. it will output all the words that can be made with those letters.
+getwords is a Scrabble/Words With Friends "helper" I wrote in C. run it with one command line argument, which is 
+the list of letters you have. it will output all the words that can be made with those letters.
